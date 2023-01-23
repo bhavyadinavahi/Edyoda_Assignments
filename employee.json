@@ -1,0 +1,39 @@
+{
+     "employee_details": [
+          {
+               "Name": "Bhavya",
+               "DOB": "21 March 1997",
+               "Height": "5ft 6inches",
+               "City": "Hyderabad",
+               "State": "Telangana"
+          },
+          {
+               "Name": "Archana",
+               "DOB": "24 February 1996",
+               "Height": "5ft 3inches",
+               "City": "Chennai",
+               "State": "Tamil Nadu"
+          },
+          {
+               "Name": "Chaitanya",
+               "DOB": "2 September 1996",
+               "Height": "5ft 7inches",
+               "City": "Chennai",
+               "State": "Tamil Nadu"
+          },
+          {
+               "Name": "Swati",
+               "DOB": "28 Octoberr 1997",
+               "Height": "5ft 4inches",
+               "City": "Chennai",
+               "State": "Tamil Nadu"
+          },
+          {
+               "Name": "Prachi",
+               "DOB": "29 January 1997",
+               "Height": "5ft 4inches",
+               "City": "Chennai",
+               "State": "Tamil Nadu"
+          }
+     ]
+}
